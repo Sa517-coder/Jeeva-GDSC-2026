@@ -22,3 +22,20 @@
 **Try Live**: [Mobile Responsive](https://v0-jeeva-healthcare-app.vercel.app/)
 
 ## 🛠️ Tech Stack
+## 📸 Prototype Screenshot Gallery
+
+| Home Dashboard #1 | Home Dashboard #2 |
+|-------------------|-------------------|
+| ![Home1](jeeva%20home%20screen%20.jpeg) | ![Home2](jeeva%20homescreen%202.jpeg) |
+
+| Symptom Checker | Health Report |
+|-----------------|---------------|
+| ![Symptoms](jeeva%20symptoms%20checker.jpeg) | ![Report](jeeva%20health%20report.jpeg) |
+
+| Health Tips | Hospital Contacts |
+|-------------|-------------------|
+| ![Tips](jeeva%20health%20tip.jpeg) | ![Hospitals](jeeva%20nearby%20hospital%20contact%20.jpeg) |
+
+| Emergency Screen |
+|------------------|
+| ![Emergency](jeeva%20emergency%20screen.jpeg) |
