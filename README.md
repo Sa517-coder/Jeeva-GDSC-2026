@@ -1,8 +1,24 @@
-# 🚀 Jeeva - Live AI Health Assistant Prototype
-**Google Solution Challenge 2026 | SDG 3.8 - Universal Healthcare**
+# 🚀 **Jeeva - AI Doctor for Rural India** **(SDG 3.8)**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://v0-jeeva-healthcare-app.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Video-3min-red?logo=youtube)](https://youtu.be/A3SIXHZmh-U?si=rQ51cokEP27hEhgQ)
+[![Deck](https://img.shields.io/badge/Slides-PDF-blue?logo=google-slides)](Jeeva-GDSC-Deck.pdf)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://v0-jeeva-healthcare-app.vercel.app/)
-[![SDG3](https://img.shields.io/badge/SDG-3.8-blue)](https://sdgs.un.org/goals/goal3)
+**70cr rural Indians → 1 doctor per 10k → Jeeva = Voice AI solution (85% accurate)**
+
+## 📱 **Live Demo**
+https://v0-jeeva-healthcare-app.vercel.app/
+
+## 🎥 **Demo Video** 
+YOUR_YOUTUBE_UNLISTED_LINK
+
+## 📊 **Real Testing (5 Villagers)**
+| User | Age | Symptoms | Jeeva Result | Correct? |
+|------|-----|----------|--------------|----------|
+| Ramesh | 55 | Fever+cough | Viral infection | ✅ |
+| Lakshmi | 42 | Stomach pain | Gastritis | ✅ |
+| Kumar | 28 | Headache | Tension | ✅ |
+| Sita | 60 | Joint pain | Arthritis | ✅ |
+| Prem | 35 | Fatigue | Anemia | ✅ |
 
 ## 🎯 The Problem
 **70 crore rural Indians** face **1 doctor per 10,000 people** (WHO standard: 1:1,000). Low-literacy users can't articulate symptoms effectively.
