@@ -57,3 +57,9 @@ YOUR_YOUTUBE_UNLISTED_LINK
 | ![Emergency](jeeva%20emergency%20screen.jpeg) |
 
 [Download PPT](jeeva-ai-doctor-for-rural-india.pdf)
+
+## Demo Video
+
+[![Watch Jeeva Demo](https://img.youtube.com/vi/A3SIXHZmh-U/0.jpg)](https://youtu.be/A3SIXHZmh-U)
+
+**Video Link:** https://youtu.be/A3SIXHZmh-U?si=rQ51cokEP27hEhgQ
