@@ -56,4 +56,4 @@ YOUR_YOUTUBE_UNLISTED_LINK
 |------------------|
 | ![Emergency](jeeva%20emergency%20screen.jpeg) |
 
-[Download Deck](Jeeva-GDSC-Deck.pdf)
+[Download Deck](file:///C:/Users/SAINATH/Downloads/jeeva-ai-doctor-for-rural-india%20(1).pdf)
