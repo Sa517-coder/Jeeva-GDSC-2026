@@ -55,3 +55,8 @@ YOUR_YOUTUBE_UNLISTED_LINK
 | Emergency Screen |
 |------------------|
 | ![Emergency](jeeva%20emergency%20screen.jpeg) |
+
+| ppt link of project jeeva |
+|------------------|
+| ![Download ppt](file:///C:/Users/SAINATH/Downloads/jeeva-ai-doctor-for-rural-india%20(1).pdf) |
+
